@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimerTest</string>
+    <string name="button_text_next_step_timer">下一步(%d)</string>
+    <string name="button_text_on">确定</string>
+</resources>
